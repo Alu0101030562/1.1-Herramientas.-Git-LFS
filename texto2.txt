@@ -1,0 +1,3 @@
+El repositorio se considera una instantánea del conjunto de archivos que pueden estar en diferentes estados:
+Archivos en seguimiento: son archivos que están en la instantánea, y que a su vez pueden haber sido marcados como: modificado, preparado o no modificado
+Archivos sin seguimiento: están en el repositorio, no está preparado ni estaba en la instantánea

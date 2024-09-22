@@ -1,0 +1,3 @@
+Git es un sistema de control de versiones distribuído. 
+Git es un software que se instala en el computador, y que permite a través de comandos en una terminal gestionar las distintas versiones que se van generando del proyecto. 
+Entre las posibles acciones que podemos llevar a cabo con Git están: generación de repositorios, creación de ramas del proyecto, clonación de repositorios, subir repositorios al servidor común.

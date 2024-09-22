@@ -1,0 +1,3 @@
+El primer paso que hay que dar es crear el repositorio, indicar que el directorio que elijamos para el proyecto estará bajo el control de versiones de Git. 
+Git proporciona los comandos para añadir archivos a seguimiento y cambiarlos de estado. 
+Un archivo en seguimiento no se actualiza en el repositorio hasta que se compromete, que pasa a estar en la instantánea. 
