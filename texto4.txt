@@ -1,0 +1,2 @@
+Otra de las tareas que realiza es analizar las diferencias entre los archivos que están en seguimiento, también conectarnos a repositorios remotos, facilitar la copia o clonación de repositorios.
+Crear ramas donde se puede experimentar cambios. Por supuesto también ofrece la posibilidad de revertir cambios y fusionar trabajo de distintos miembros del equipo.

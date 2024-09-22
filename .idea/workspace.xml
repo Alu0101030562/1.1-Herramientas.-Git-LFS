@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e6bab6-e12d-474f-9a53-c5b7eca2246a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Fantasy XVI fondo 4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final Fantasy XVI fondo 4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final Fantasy XVI fondo 5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final Fantasy XVI fondo 5.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="56e6bab6-e12d-474f-9a53-c5b7eca2246a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +25,7 @@
     "accountId": "725000ce-cb55-4cf7-b512-84650bb9d352"
   }
 }]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -58,13 +55,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727038795931</updated>
-      <workItem from="1727038796955" duration="1157000" />
+      <workItem from="1727038796955" duration="1519000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
